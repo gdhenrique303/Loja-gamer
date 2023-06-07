@@ -1,0 +1,12 @@
+:root {
+    --cor-de-fundo: rgb(4, 245, 76);
+}
+body {
+    background-color: var(--cor-de-fundo);
+}
+<body> 
+   <h1> Gamer</h1>
+   </body>
+   h1 {
+    background-color: white;
+   }
